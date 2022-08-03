@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PHub/static/css/main.84487ea8.css",
+    "main.js": "/PHub/static/js/main.d38c0727.js",
+    "index.html": "/PHub/index.html",
+    "main.84487ea8.css.map": "/PHub/static/css/main.84487ea8.css.map",
+    "main.d38c0727.js.map": "/PHub/static/js/main.d38c0727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.d38c0727.js"
+  ]
+}
